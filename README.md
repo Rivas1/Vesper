@@ -16,7 +16,6 @@ localhost/vehicles/details --> display info on vehicle
 
 
 Once downloaded:
-
-cd Vesper
-workon py2 (** remember to set up virtual env**)
-python manage.py runserver
+-**cd Vesper**
+-**workon py2** (** remember to set up virtual env**)
+-**python manage.py runserver**
