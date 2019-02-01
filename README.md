@@ -4,9 +4,8 @@ Version 1.0
 Built with:
 -Python 3.6.3
 
-Pip list:
-
-Package      Version
+**Pip list:**
+ 
 ------------ -------
 - Django       2.1.5
 - django-jinja 2.4.1
