@@ -1,6 +1,24 @@
 # Vesper
 Version 1.0
 
+Built with:
+-Python 3.6.3
+
+Pip list:
+
+Package      Version
+------------ -------
+- Django       2.1.5
+- django-jinja 2.4.1
+- Jinja2       2.10
+- MarkupSafe   1.1.0
+- mysqlclient  1.4.1
+- pip          19.0.1
+- pytz         2018.9
+- setuptools   40.7.2
+- wheel        0.32.3
+
+
 Folder structure
 1. Vesper
    - Vesper (this repository)
